@@ -1,5 +1,5 @@
 /* 
- * Homework 12: Visotor Pattern
+ * Homework 12: Visitor Pattern
  * Author: Luke Clover
  *
  * Created on March 18, 2019, 4:42 PM
@@ -13,6 +13,10 @@ using namespace std;
 #include "TerminalNode.h"
 #include "StackBasedSumVisitor.h"
 #include "NonStackBasedSumVisitor.h"
+
+/*
+ Revisiting this project, I need a refresher
+ */
 
 int main(int argc, char** argv) {
 
